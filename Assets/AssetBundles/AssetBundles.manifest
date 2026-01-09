@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4248885837
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: kmodbundle
+      Dependencies: {}
